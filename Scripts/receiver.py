@@ -6,7 +6,7 @@ from socket import *
 import sys
 import select
 
-host= "2001:0690:2280:0822::1"                       #ip do host
+host= "2001:0690:2280:0822::1"    #ip do host
 port = 36363                      #porta utilizada
 s = socket(AF_INET6,SOCK_DGRAM)   #socket udp ipv4
 s.bind((host,port))               #bind do socket ao ip e port
@@ -27,6 +27,6 @@ try:
         s.settimeout(2)
         data,addr = s.recvfrom(buf)
 except timeout:
-        f.close()
-        s.close()
-        print ("File Downloaded")
+    f.close()
+    s.close()
+    print ("File Downloaded")
