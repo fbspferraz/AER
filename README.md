@@ -1,6 +1,5 @@
 # AER
-All of the code done for the class of Emerging Network Architetures
-At the moment only has:
+All of the code done for the class of Emerging Network Architetures, at the moment only has:
 + sender and receiver scripts
 + movement generator script
 
