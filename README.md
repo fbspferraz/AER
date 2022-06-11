@@ -4,5 +4,4 @@ All of the code done for the class of Emerging Network Architetures, has:
 + server script
 + movement generator script
 + output of the movement script 
-+ example file used to test the script
 + file of the network topology 
