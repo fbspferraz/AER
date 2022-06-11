@@ -1,0 +1,48 @@
+$node_(13) set X_ 14
+$node_(13) set Y_ 130
+$node_(13) set Z_ 0
+$node_(14) set X_ 197
+$node_(14) set Y_ 74
+$node_(14) set Z_ 0
+$node_(15) set X_ 254
+$node_(15) set Y_ 27
+$node_(15) set Z_ 0
+$node_(16) set X_ 237
+$node_(16) set Y_ 87
+$node_(16) set Z_ 0
+$node_(17) set X_ 66
+$node_(17) set Y_ 108
+$node_(17) set Z_ 0
+$node_(18) set X_ 78
+$node_(18) set Y_ 177
+$node_(18) set Z_ 0
+$ns_ at 3 "$node_(13) setdest 75 0 16"
+$ns_ at 4 "$node_(14) setdest 198 134 23"
+$ns_ at 5 "$node_(15) setdest 72 415 22"
+$ns_ at 7 "$node_(16) setdest 945 161 39"
+$ns_ at 11 "$node_(17) setdest 424 308 24"
+$ns_ at 13 "$node_(18) setdest 343 295 10"
+$ns_ at 16 "$node_(13) setdest 112 504 33"
+$ns_ at 20 "$node_(14) setdest 849 476 38"
+$ns_ at 22 "$node_(15) setdest 896 577 14"
+$ns_ at 23 "$node_(16) setdest 54 390 24"
+$ns_ at 24 "$node_(17) setdest 41 36 19"
+$ns_ at 25 "$node_(18) setdest 20 445 39"
+$ns_ at 26 "$node_(13) setdest 250 741 33"
+$ns_ at 27 "$node_(14) setdest 841 98 12"
+$ns_ at 31 "$node_(15) setdest 916 743 32"
+$ns_ at 34 "$node_(16) setdest 835 468 12"
+$ns_ at 37 "$node_(17) setdest 488 615 39"
+$ns_ at 40 "$node_(18) setdest 531 272 11"
+$ns_ at 41 "$node_(13) setdest 489 437 36"
+$ns_ at 44 "$node_(14) setdest 345 461 28"
+$ns_ at 48 "$node_(15) setdest 594 337 34"
+$ns_ at 51 "$node_(16) setdest 521 307 34"
+$ns_ at 52 "$node_(17) setdest 610 463 20"
+$ns_ at 55 "$node_(18) setdest 918 693 15"
+$ns_ at 59 "$node_(13) setdest 116 671 31"
+$ns_ at 60 "$node_(14) setdest 232 422 40"
+$ns_ at 61 "$node_(15) setdest 811 747 16"
+$ns_ at 64 "$node_(16) setdest 625 21 30"
+$ns_ at 66 "$node_(17) setdest 813 737 11"
+$ns_ at 67 "$node_(18) setdest 20 533 39"
